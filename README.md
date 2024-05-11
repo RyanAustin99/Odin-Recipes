@@ -2,7 +2,7 @@
 
 In this project, I am using basic html to demonstrate various skills I have learned such as:
 
-         1. What the basic structure for a html webpage looks like
+         1. What the basic structure for an html webpage looks like
          2. How to create a boilerplate
          3. The usage of relative links in a new tab
          4. Uploading images with alternate text
