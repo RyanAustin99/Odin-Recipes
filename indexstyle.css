@@ -1,3 +1,7 @@
+@font-face {
+    font-family: 'kingshare';
+    src: url(Assets/Kingshare.ttf);
+}
 
 body{
     
@@ -5,7 +9,8 @@ body{
     background-repeat: no-repeat;
     background-image: url(./Photos/apple.webp);
     font-size: large;
-    font-family:"New Century Schoolbook", "TeX Gyre Schola", serif
+    font-family:"kingshare", cursive,sans-serif;
+    font-size: 25px;
 }
 
 li{
@@ -13,7 +18,10 @@ li{
 }
 #titlepage{
     color:#EC7063 ;
-    font-size: 45px;
+    font-family: "kingshare", cursive, sans-serif;
+    font-size: 75px;
+    
+    
 }
 a:link{
     color: green;
