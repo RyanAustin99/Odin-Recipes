@@ -11,3 +11,19 @@ body{
 li{
     color:#616A6B ;
 }
+#titlepage{
+    color:#EC7063 ;
+    font-size: 45px;
+}
+a:link{
+    color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited{
+    color: #D2B4DE ;
+    background-color: transparent;
+}
+a:hover{
+    color: aquamarine;
+}
