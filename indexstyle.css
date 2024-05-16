@@ -1,0 +1,13 @@
+
+body{
+    
+    background-size: cover;    
+    background-repeat: no-repeat;
+    background-image: url(./Photos/apple.webp);
+    font-size: large;
+    font-family:"New Century Schoolbook", "TeX Gyre Schola", serif
+}
+
+li{
+    color:#616A6B ;
+}
