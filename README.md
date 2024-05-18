@@ -18,3 +18,13 @@ In this project, I am using basic html to demonstrate various skills I have lear
             D. How to delete directories
             E. How to copy files
             F. How to move files
+
+Furthermore, I have included basic uses of css as well such as:
+   1. Coloring content
+   2. creating gradients
+   3. Centering content
+   4. Using text shadows
+   5. The use of fonts and font families
+   6. Importing fonts
+   7. Creating link effects
+   8. The use of both vertical and horizontal alignment.
