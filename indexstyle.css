@@ -5,7 +5,7 @@
 
 body{
     background-attachment: fixed;
-    background-image: linear-gradient(to bottom right, black, #424242, #330066);
+    background-image: radial-gradient( black, #424242, #330066, rgb(104, 47, 104));
     font-size: large;
     font-family:"kingshare", cursive,sans-serif;
     font-size: 25px;
@@ -17,18 +17,30 @@ li{
 #titlepage{
     color:#EC7063 ;
     font-family: "kingshare", cursive, sans-serif;
-    font-size: 75px;   
+    font-size: 80px;   
     text-align: center;
     text-shadow:3px 3px purple;
+    position: absolute;
+    top: 30%;
+    left: 45%;
+    width: 200px;
+    height: 60px;
+    line-height: 60px;
+    margin-left: -40px;
+    margin-top: 30px;
+    text-align: center; 
 }
 
 div.container{
     text-align: center;
+    font-size: 40px;
+    width: 500px;
+    margin-top: 425px;
+    margin-left: 800px;
 }
 ul.mylinks{
     display: inline-block;
     text-align: left;
-    font-size: 30px;
 }
 
 a:link{
