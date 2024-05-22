@@ -1,0 +1,10 @@
+@font-face {
+    font-family:'kingshare' ;
+    src: url(../Assets/Kingshare.ttf);
+}
+
+.shrimpphoto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
