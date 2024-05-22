@@ -8,3 +8,53 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.Shrimpalfredo{
+    font-family: "kingshare", cursive, sans-serif;
+    color:#EC7063;
+    font-size: 50px;
+    text-align: center;
+}
+
+body{
+    background-attachment: fixed;
+    background-image:linear-gradient(to right bottom, black, #424242, #330066, rgb(104, 47, 104));
+    font-size: large;
+    font-family:sans-serif;
+    font-size: 20px;
+}
+
+p, h4, h3{
+    color: rgb(179, 182, 180);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+h3{
+    font-family: "kingshare", cursive, sans-serif;
+    color:#EC7063;
+    font-size: 50px;
+    text-align: center;
+}
+
+div.container{
+    color: bisque;
+    font-size: 20px;
+    text-align: center;
+}
+ul.myul{
+    display: inline-block;
+    text-align: left;
+}
+
+ol.myol{
+    display: inline-block;
+    text-align: left;
+}
+
+.subheader{
+    font-family: "kingshare", cursive, sans-serif;
+    color:#EC7063;
+    font-size: 40px;
+}
