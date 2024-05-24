@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'kingshare';
+    src: url(../Assets/Kingshare.ttf);
+}
+
+.heading1{
+    font-family: "kingshare", cursive, sans-serif;
+    color:#EC7063;
+    font-size: 50px;
+    text-align: center;
+}
+
+.image{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
