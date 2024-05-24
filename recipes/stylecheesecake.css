@@ -15,3 +15,11 @@
     margin-right: auto;
     margin-left: auto;
 }
+
+body{
+    background-attachment: fixed;
+    background-image:linear-gradient(to right bottom, black, #424242, #330066, rgb(104, 47, 104));
+    font-size: large;
+    font-family: sans-serif;
+    font-size: 25px;
+}
