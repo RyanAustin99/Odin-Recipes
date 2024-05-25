@@ -5,7 +5,7 @@
 
 body{
     background-attachment: fixed;
-    background-image: radial-gradient( black, #424242, #330066, rgb(104, 47, 104));
+    background-image: radial-gradient( rgb(0, 0, 0)15%, #38067a 50%, #38226a, rgb(68, 16, 68));
     font-size: large;
     font-family:"kingshare", cursive,sans-serif;
     font-size: 25px;
@@ -26,7 +26,7 @@ li{
     width: 200px;
     height: 60px;
     line-height: 60px;
-    margin-left: -40px;
+    margin-left: -100px;
     margin-top: 30px;
     text-align: center; 
 }
@@ -36,7 +36,7 @@ div.container{
     font-size: 40px;
     width: 500px;
     margin-top: 425px;
-    margin-left: 800px;
+    margin-left: 725px;
 }
 ul.mylinks{
     display: inline-block;
