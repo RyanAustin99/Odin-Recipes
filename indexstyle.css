@@ -14,6 +14,7 @@ body{
 li{
     color:#616A6B ;
 }
+
 #titlepage{
     color:#EC7063 ;
     font-family: "kingshare", cursive, sans-serif;
@@ -56,4 +57,13 @@ a:visited{
 a:hover{
     color: aquamarine;
     text-shadow: 2px 2px #EC7063;
+}
+
+h3{
+    padding-top: 75px;
+    padding-left: 15px;
+    text-align: left;
+    color:#ec71638a;
+    font-size: smaller;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
