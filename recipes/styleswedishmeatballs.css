@@ -1,0 +1,12 @@
+font-face {
+    font-family:'kingshare' ;
+    src: url(../Assets/Kingshare.ttf);
+}
+
+body{
+    background-attachment: fixed;
+    background-image:linear-gradient(to right bottom, black, #424242, #330066, rgb(104, 47, 104));
+    font-size: large;
+    font-family: sans-serif;
+    font-size: 25px;
+}    
