@@ -33,3 +33,21 @@ body{
     font-size: 25px;
     text-align: center;
 }
+
+.ingredients{
+    font-family: "kingshare", cursive, sans-serif;
+    color:#EC7063;
+    font-size: 50px;
+    text-align: center;
+}
+
+#container{
+    color: bisque;
+    font-size: 20px;
+    text-align: center;
+}
+
+.myul{
+    display: inline-block;
+    text-align: left;
+}
