@@ -34,7 +34,7 @@ body{
     text-align: center;
 }
 
-.ingredients{
+.ingredients, .instructions{
     font-family: "kingshare", cursive, sans-serif;
     color:#EC7063;
     font-size: 50px;
@@ -47,7 +47,7 @@ body{
     text-align: center;
 }
 
-.myul{
+.myul, .myol{
     display: inline-block;
     text-align: left;
 }
