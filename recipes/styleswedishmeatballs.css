@@ -26,3 +26,10 @@ body{
     margin-right: auto;
 
 }
+
+.tagline{
+    color: rgb(179, 182, 180);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    text-align: center;
+}
