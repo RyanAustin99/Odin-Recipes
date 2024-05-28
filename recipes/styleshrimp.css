@@ -46,11 +46,23 @@ div.container{
 ul.myul{
     display: inline-block;
     text-align: left;
+    border: 10px solid black;
+    box-shadow: 0px 0px 40px rgb(255, 72, 99);
+    border-radius: 50px;
+    padding: 30px;
+    display:table; margin:0 auto;
+    text-shadow: 0px 0px 20px black;
 }
 
 ol.myol{
     display: inline-block;
     text-align: left;
+    border: 12px solid black;
+    box-shadow: 0px 0px 80px rgb(255, 72, 99);
+    border-radius: 70px;
+    padding: 50px;
+    display:table; margin:0 auto;
+    text-shadow: 0px 0px 60px black;
 }
 
 .subheader{
