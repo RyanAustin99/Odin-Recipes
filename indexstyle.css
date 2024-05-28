@@ -60,10 +60,29 @@ a:hover{
 }
 
 h3{
-    padding-top: 75px;
-    padding-left: 15px;
+    padding-top: 80px;
+    padding-left: 5px;
     text-align: left;
-    color:#ec71638a;
-    font-size: smaller;
+    color:#ec716372;
+    font-size: 25px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display:table; margin:0 auto
+}
+
+#sitebyname{
+    margin-right: 110px;
+}
+
+#ryanteiken{
+    padding-top: 25px;
+}
+
+h6{
+    display:table; margin:0 auto;
+    font-size: 25px;
+    color: #EC7063;
+    border: 6px solid black;
+    box-shadow: 0px 0px 20px rgb(255, 72, 99);
+    border-radius: 15px;
+    padding: 15px;
 }
